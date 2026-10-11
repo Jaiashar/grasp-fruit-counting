@@ -1,0 +1,139 @@
+{
+  "source_repository": "Trefo/KumarAg",
+  "source_commit": "a7f80b240dcf5bc2a8ef2f7ba667bf98cf52cda6",
+  "files": [
+    {
+      "source": "LICENSE",
+      "destination": "LICENSE",
+      "source_sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "released_sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "modified": false
+    },
+    {
+      "source": "FCN_Segmentation/BatchDatsetReader.py",
+      "destination": "historical/segmentation/BatchDatsetReader.py",
+      "source_sha256": "81f43cc2ad0fc2fd713271766aa3fe795c8c41636cdac537702303289dca75c9",
+      "released_sha256": "81f43cc2ad0fc2fd713271766aa3fe795c8c41636cdac537702303289dca75c9",
+      "modified": false
+    },
+    {
+      "source": "FCN_Segmentation/BatchInferenceDatsetReader.py",
+      "destination": "historical/segmentation/BatchInferenceDatsetReader.py",
+      "source_sha256": "b655779796063d34a98ca558096d93361fea2c8bfa54e3a87f043873e469443c",
+      "released_sha256": "b655779796063d34a98ca558096d93361fea2c8bfa54e3a87f043873e469443c",
+      "modified": false
+    },
+    {
+      "source": "FCN_Segmentation/FCN.py",
+      "destination": "historical/segmentation/FCN.py",
+      "source_sha256": "5b77cd4b0b9ea42d20eb21290944ef8586ab79c2c4a2a79c4286be3d890a70bc",
+      "released_sha256": "5b77cd4b0b9ea42d20eb21290944ef8586ab79c2c4a2a79c4286be3d890a70bc",
+      "modified": false
+    },
+    {
+      "source": "FCN_Segmentation/FCNInference.py",
+      "destination": "historical/segmentation/FCNInference.py",
+      "source_sha256": "fd8c3273afb0061e5622e9abfecd18b796449c6130669910c79b77e0618615e4",
+      "released_sha256": "fd8c3273afb0061e5622e9abfecd18b796449c6130669910c79b77e0618615e4",
+      "modified": false
+    },
+    {
+      "source": "FCN_Segmentation/FCNTest.py",
+      "destination": "historical/segmentation/FCNTest.py",
+      "source_sha256": "f58f69f439128dfa1b267bd7df11791f48752a18d91990f379237253ad6b5b48",
+      "released_sha256": "f58f69f439128dfa1b267bd7df11791f48752a18d91990f379237253ad6b5b48",
+      "modified": false
+    },
+    {
+      "source": "FCN_Segmentation/TensorflowUtils.py",
+      "destination": "historical/segmentation/TensorflowUtils.py",
+      "source_sha256": "43d1cb1d58b795efd936bb179943426dcf9c78e55f3e76e5113fb349bddc1090",
+      "released_sha256": "43d1cb1d58b795efd936bb179943426dcf9c78e55f3e76e5113fb349bddc1090",
+      "modified": false
+    },
+    {
+      "source": "FCN_Segmentation/constants.py",
+      "destination": "historical/segmentation/constants.py",
+      "source_sha256": "60c96322d689396f0baa12eecbfd323daa99c9f47a13ed6530b39a167bdca04e",
+      "released_sha256": "60c96322d689396f0baa12eecbfd323daa99c9f47a13ed6530b39a167bdca04e",
+      "modified": false
+    },
+    {
+      "source": "FCN_Segmentation/partition_data.py",
+      "destination": "historical/segmentation/partition_data.py",
+      "source_sha256": "5e01634d3c8b6c9ba3cad83b19c4e2b33db8285b917ee29b676684ea43fea800",
+      "released_sha256": "5e01634d3c8b6c9ba3cad83b19c4e2b33db8285b917ee29b676684ea43fea800",
+      "modified": false
+    },
+    {
+      "source": "FCN_Segmentation/readInferenceData.py",
+      "destination": "historical/segmentation/readInferenceData.py",
+      "source_sha256": "60b7b5f1ee6ba646a3cd25b20b4554495a3cfc45f595d294e25f6a3932cfeac2",
+      "released_sha256": "60b7b5f1ee6ba646a3cd25b20b4554495a3cfc45f595d294e25f6a3932cfeac2",
+      "modified": false
+    },
+    {
+      "source": "FCN_Segmentation/read_MITSceneParsingData.py",
+      "destination": "historical/segmentation/read_MITSceneParsingData.py",
+      "source_sha256": "f01790a5cf193db002dde004199c654e9f507c0657f23ee68355dab7b492dbc8",
+      "released_sha256": "f01790a5cf193db002dde004199c654e9f507c0657f23ee68355dab7b492dbc8",
+      "modified": false
+    },
+    {
+      "source": "FCN_Segmentation/testDataSource.py",
+      "destination": "historical/segmentation/testDataSource.py",
+      "source_sha256": "0d480d3128617e73cd117009118a22feb44a43221e791d14c384e84d4ba49833",
+      "released_sha256": "0d480d3128617e73cd117009118a22feb44a43221e791d14c384e84d4ba49833",
+      "modified": false
+    },
+    {
+      "source": "FCN_Segmentation/LICENSE",
+      "destination": "historical/segmentation/LICENSE",
+      "source_sha256": "511b756e567aa7b94ea16e784e424bb5f83400297b7750ca76d275af80fa9f5f",
+      "released_sha256": "511b756e567aa7b94ea16e784e424bb5f83400297b7750ca76d275af80fa9f5f",
+      "modified": false
+    },
+    {
+      "source": "tracking_localization/previous_version/tracking/scpye/track/assignment.py",
+      "destination": "src/scpye/track/assignment.py",
+      "source_sha256": "62bd0fa42e90db1478177a48e4dea2541fdeaf53317db4e24182df0395fde528",
+      "released_sha256": "a523d13c94e061638dd3a35f2edf22c7759cac7c532f1b5d7c4b9f67c26aa1e6",
+      "modified": true
+    },
+    {
+      "source": "tracking_localization/previous_version/tracking/scpye/track/kalman_filter.py",
+      "destination": "src/scpye/track/kalman_filter.py",
+      "source_sha256": "aebfe18de66d3052df52785bc45ebc32ea1c720b31664045c2f53c559146d831",
+      "released_sha256": "aebfe18de66d3052df52785bc45ebc32ea1c720b31664045c2f53c559146d831",
+      "modified": false
+    },
+    {
+      "source": "tracking_localization/previous_version/tracking/scpye/track/bounding_box.py",
+      "destination": "src/scpye/track/bounding_box.py",
+      "source_sha256": "e4b965c3da52929c5e0b1ccf5828f107573b03b7d288a274335de7daeeadcb37",
+      "released_sha256": "e4b965c3da52929c5e0b1ccf5828f107573b03b7d288a274335de7daeeadcb37",
+      "modified": false
+    },
+    {
+      "source": "tracking_localization/previous_version/tracking/scpye/track/fruit_track.py",
+      "destination": "src/scpye/track/fruit_track.py",
+      "source_sha256": "e11c376121d95e0bfd232e234e08dd805827bf880248cb2771e89334c6e1951e",
+      "released_sha256": "e11c376121d95e0bfd232e234e08dd805827bf880248cb2771e89334c6e1951e",
+      "modified": false
+    },
+    {
+      "source": "tracking_localization/previous_version/tracking/scpye/track/optical_flow.py",
+      "destination": "src/scpye/track/optical_flow.py",
+      "source_sha256": "79f877f86d0fd1537551e307660a04bd9d41458e213a78cd08c0702f626c47d0",
+      "released_sha256": "186b3407c6997399465ec5beab85ed5bf06d5953a9d911c438411194bff56e22",
+      "modified": true
+    },
+    {
+      "source": "tracking_localization/previous_version/tracking/scpye/track/fruit_tracker.py",
+      "destination": "historical/tracking/fruit_tracker.py",
+      "source_sha256": "4973e2c2c069df8706349cc9b39eefd42ec6d370559e57eaaaf9f874df1a79ba",
+      "released_sha256": "4973e2c2c069df8706349cc9b39eefd42ec6d370559e57eaaaf9f874df1a79ba",
+      "modified": false
+    }
+  ]
+}
